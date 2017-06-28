@@ -1,0 +1,23 @@
+{
+  "name": "iso9075encoding",
+  "version": "1.0.0",
+  "description": "A Library that provides Methods for easy De/Encoding of ISO9075 Strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ISO9075",
+    "encoding",
+    "decoding"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gailingmic/iso9075encoding.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gailingmic/iso9075encoding/issues"
+  },
+  "author": "Michell Gailing <gailing.michell@gmail.com>",
+  "license": "ISC"
+}
